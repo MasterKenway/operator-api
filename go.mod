@@ -1,4 +1,4 @@
-module github.com/mark4z/operator-api
+module github.com/MasterKenway/operator-api
 
 go 1.18
 
